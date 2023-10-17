@@ -1,0 +1,9 @@
+.poster {
+height: 200px;
+width: 200px
+}
+
+.movie-title{
+    color: darksalmon;
+    font-family: cursive;
+}
